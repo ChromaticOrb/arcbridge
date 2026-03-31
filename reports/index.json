@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260330-201630-a595",
+      "title": "Hell Brad, Kabachkovaya Ikra, Kvashenaya Kapusta, M O L O T O O, Ranger Ce, Ukropnaya Voda",
+      "commanders": [
+        "Hell Brad",
+        "Kabachkovaya Ikra",
+        "Kvashenaya Kapusta",
+        "M O L O T O O",
+        "Ranger Ce",
+        "Ukropnaya Voda"
+      ],
+      "dateStart": "2026-03-30T19:16:30.000Z",
+      "dateEnd": "2026-03-30T22:41:38.000Z",
+      "dateLabel": "30/03/2026, 20:16:30 - 30/03/2026, 23:41:38",
+      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260330-201630-a595",
+      "summary": {
+        "borderlandsPct": 0.2972972972972973,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260329-211320-o74g",
       "title": "Kvashenaya Kapusta, X E N O M O L O",
       "commanders": [
