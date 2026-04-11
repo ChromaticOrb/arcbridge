@@ -1,7 +1,40 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "amber-warm",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260410-225042-n3x8",
+      "title": "Hell Brad",
+      "commanders": [
+        "Hell Brad"
+      ],
+      "dateStart": "2026-04-10T21:50:42.000Z",
+      "dateEnd": "2026-04-10T23:12:41.000Z",
+      "dateLabel": "10/04/2026, 22:50:42 - 11/04/2026, 00:12:41",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260410-225042-n3x8",
+      "summary": {
+        "borderlandsPct": 0.6428571428571429,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 23
+      }
+    },
     {
       "id": "20260407-214249-rl27",
       "title": "Hell Brad",
