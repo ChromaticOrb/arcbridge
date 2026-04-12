@@ -3,6 +3,32 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260411-213949-jc77",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-04-11T20:39:49.000Z",
+      "dateEnd": "2026-04-11T22:29:13.000Z",
+      "dateLabel": "11/04/2026, 21:39:49 - 11/04/2026, 23:29:13",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260411-213949-jc77",
+      "summary": {
+        "borderlandsPct": 0.21875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260410-225042-n3x8",
       "title": "Hell Brad",
       "commanders": [
